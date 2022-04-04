@@ -4,4 +4,3 @@ numpy
 TextBlob
 nltk
 turtle
-tkinter
