@@ -1,5 +1,6 @@
 from turtle import pd
 import streamlit as st
+import tkinter as TK
 # NLP Pkgs
 from textblob import TextBlob
 import pandas as pd
